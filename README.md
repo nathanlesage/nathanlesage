@@ -13,7 +13,14 @@ My strong suit is clearly the ability to bridge the gap between non-technical re
 
 ***
 
-**Table of Contents** | [Education](https://github.com/nathanlesage#education) | [Professional Experience](https://github.com/nathanlesage#professional-experience) | [Teaching Experience](https://github.com/nathanlesage#teaching-experience) | [Software Development](https://github.com/nathanlesage#software-development) | [Publications](https://github.com/nathanlesage#publications) | [Miscellaneous](https://github.com/nathanlesage#miscellaneous)
+**Table of Contents**
+
+[1. Education](https://github.com/nathanlesage#education)<br>
+[2. Professional Experience](https://github.com/nathanlesage#professional-experience)<br>
+[3. Teaching Experience](https://github.com/nathanlesage#teaching-experience)<br>
+[4. Software Development](https://github.com/nathanlesage#software-development)<br>
+[5. Publications](https://github.com/nathanlesage#publications)<br>
+[6. Miscellaneous](https://github.com/nathanlesage#miscellaneous)
 
 ***
 

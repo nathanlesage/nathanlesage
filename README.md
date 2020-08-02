@@ -152,3 +152,5 @@ My strong suit is clearly the ability to bridge the gap between non-technical re
 Apart from my professional sociological background and my pretty strong background in software development, I also make other things from time to time.
 
 For instance, I once [edited my own journal](https://www.dispositio-opinio.de/) with some friends, I [help a lot behind the mixing console and with networking](https://www.green-juice.de/), and I even [produced an EP](https://open.spotify.com/album/1unyh75PifL4izuB52ZbCV?si=MME-ZkFOQdyPU0NU_V3uzQ)!
+
+Last but not least, I am also an editor of the German academic journal [Soziologiemagazin](https://soziologieblog.hypotheses.org/) and responsible for review, public relations and all the computer-ish things in the background.

@@ -2,7 +2,7 @@
 
 ![Random Header Image](https://source.unsplash.com/1000x200/?books,social,computer)
 
-I'm Hendrik and currently I am a researcher at the [Institute for Peace Research and Security Policy at the University of Hamburg (IFSH)](https://ifsh.de/en), where I perform research on machine learning, algorithms, and artificial intelligence in general with respect to its military use-cases. In my free time, I'm an Open Source contributor, mainly to my academic Markdown editor Zettlr, but I also collaborate, e.g., with the Pandoc project (namely Albert Krewinkel).
+I'm Hendrik and currently I am a researcher at the [Institute for Peace Research and Security Policy at the University of Hamburg (IFSH)](https://ifsh.de/en), where I perform research on machine learning, algorithms, and artificial intelligence in general with respect to its military use-cases. In my free time, I'm an Open Source contributor, mainly to my academic Markdown editor Zettlr, but I also collaborate with other projects.
 
 My strong suit is clearly the ability to bridge the gap between non-technical research in the arts and humanities and the technical side of software and hardware development. I find it fascinating to throw political and sociological theory at code, and vice versa. I've already done so in various publications (see below), where I explore the political and social ramifications of software on a theoretic level, and currently I am looking forward to make use of code (specifically neural networks and machine learning techniques) for sociological research.
 
@@ -10,6 +10,10 @@ My strong suit is clearly the ability to bridge the gap between non-technical re
 ![English (C1)](https://img.shields.io/static/v1?label=language&message=English%20%28C1%29&color=crimson)
 ![French (A2)](https://img.shields.io/static/v1?label=language&message=Français%20%28A2%29&color=crimson)
 ![Japanese (A1)](https://img.shields.io/static/v1?label=language&message=%E6%97%A5%E6%9C%AC%E8%AA%9E%20%28A1%29&color=crimson)
+
+***
+
+**Table of Contents** | [Education](https://github.com/nathanlesage#education) | [Professional Experience](https://github.com/nathanlesage#professional-experience) | [Teaching Experience](https://github.com/nathanlesage#teaching-experience) | [Software Development](https://github.com/nathanlesage#software-development) | [Publications](https://github.com/nathanlesage#publications) | [Miscellaneous](https://github.com/nathanlesage#miscellaneous)
 
 ***
 
@@ -55,7 +59,7 @@ My strong suit is clearly the ability to bridge the gap between non-technical re
 * Researching content and publishing material on Open Educational Resources (OER)
 * Working with the different departments in publishing content
 
-## University-grade Teaching Experience
+## Teaching Experience
 
 ### Winter Term 2018/2019
 
@@ -142,8 +146,6 @@ My strong suit is clearly the ability to bridge the gap between non-technical re
 * Erz, H. (2020a). _Künstliche Intelligenz und Daten: Eine Evaluation softwarebasierter militärischer Informationsgewinnung_ (Research Report No. 4). IFSH.
 * Erz, H. (2020b). Operative Porträts: Eine Bildgeschichte der Identifizierbarkeit von Lavater bis Facebook. Von Roland Meyer. _Soziologiemagazin_, _01/2020_, 75–81. [https://doi.org/10.3224/soz.v13i1.07](https://doi.org/10.3224/soz.v13i1.07)
 * Erz, H. (2020c). The Status Quo is a Dystopian Nightmare. _Engagée_, _9_, 20–25.
-
-***
 
 ## Miscellaneous
 

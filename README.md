@@ -2,7 +2,7 @@
 
 ![Random Header Image](https://source.unsplash.com/1000x200/?books,social,computer)
 
-I'm Hendrik and currently I am a researcher at the [Institute for Peace Research and Security Policy at the University of Hamburg (IFSH)](https://ifsh.de/en), where I perform research on machine learning, algorithms, and artificial intelligence in general with respect to its military use-cases. In my free time, I'm an Open Source contributor, mainly to my academic Markdown editor Zettlr, but I also collaborate with other projects.
+I'm Hendrik and a PhD student at the [Institute for Analytical Sociology at Linköping University](https://liu.se/en/organisation/liu/iei/ias), Sweden, where I perform research on machine learning for sociology. In my free time, I'm an Open Source contributor, mainly to my academic Markdown editor Zettlr, but I also collaborate with other projects.
 
 My strong suit is clearly the ability to bridge the gap between non-technical research in the arts and humanities and the technical side of software and hardware development. I find it fascinating to throw political and sociological theory at code, and vice versa. I've already done so in various publications (see below), where I explore the political and social ramifications of software on a theoretic level, and currently I am looking forward to make use of code (specifically neural networks and machine learning techniques) for sociological research.
 
@@ -31,6 +31,7 @@ My strong suit is clearly the ability to bridge the gap between non-technical re
 
 ## Education
 
+- **PhD** (ongoing), Analytical Sociology/Computational Social Science, Linköping University
 - **Master of Arts** (2017), "Societies, Globalization, and Development" (_Gesellschaften, Globalisierung und Entwicklung_), University of Bonn
 - **Bachelor of Arts** (2014), History (major) and Political Sciences & Sociology (minor), University of Bonn
 

@@ -2,12 +2,15 @@
 
 ![Random Header Image](https://source.unsplash.com/1000x200/?books,social,computer)
 
-I'm Hendrik and a PhD student at the [Institute for Analytical Sociology at Linköping University](https://liu.se/en/organisation/liu/iei/ias), Sweden, where I perform research on machine learning for sociology. In my free time, I'm an Open Source contributor, mainly to my academic Markdown editor Zettlr, but I also collaborate with other projects.
+> Analytical Sociology; Computational Social Sciences; Large Language Models
 
-My strong suit is clearly the ability to bridge the gap between non-technical research in the arts and humanities and the technical side of software and hardware development. I find it fascinating to throw political and sociological theory at code, and vice versa. I've already done so in various publications (see below), where I explore the political and social ramifications of software on a theoretic level, and currently I am looking forward to make use of code (specifically neural networks and machine learning techniques) for sociological research.
+I'm Hendrik and a PhD student at the [Institute for Analytical Sociology at Linköping University](https://liu.se/en/organisation/liu/iei/ias), Sweden, where I research the policymaking progress in U.S. Congress and elsewhere using Computational Text Analysis with the help of Linguistics and Transformer/Large Language Models. In my free time, I'm an Open Source contributor, mainly to [Zettlr](https://www.zettlr.com/), but I also collaborate with other projects, such as [Winter CMS](https://github.com/wintercms/winter).
+
+My strong suit is the ability to bridge the gap between non-technical research in the arts and humanities and the technical side of software and hardware development. I find it fascinating to throw political and sociological theory at code, and vice versa. I've already done so in various publications (see below), where I explore the political and social ramifications of software on a theoretic level, and currently I am making use of code (specifically Large Language Models) for sociological research.
 
 ![German (native)](https://img.shields.io/static/v1?label=language&message=Deutsch%20%28native%29&color=crimson)
 ![English (C1)](https://img.shields.io/static/v1?label=language&message=English%20%28C1%29&color=crimson)
+![Swedish (A2)](https://img.shields.io/static/v1?label=language&message=Svenska%20%28A2%29&color=crimson)
 ![French (A2)](https://img.shields.io/static/v1?label=language&message=Français%20%28A2%29&color=crimson)
 ![Japanese (A1)](https://img.shields.io/static/v1?label=language&message=%E6%97%A5%E6%9C%AC%E8%AA%9E%20%28A1%29&color=crimson)
 
@@ -156,6 +159,8 @@ My strong suit is clearly the ability to bridge the gap between non-technical re
 * Erz, H. (2020c). The Status Quo is a Dystopian Nightmare. _Engagée_, _9_, 20–25.
 
 ## Miscellaneous
+
+I am the webmaster for the [International Network of Analytical Sociologists](https://www.analyticalsociology.com/).
 
 Apart from my professional sociological background and my pretty strong background in software development, I also make other things from time to time.
 

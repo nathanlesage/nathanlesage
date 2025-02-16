@@ -28,8 +28,7 @@ My strong suit is the ability to bridge the gap between non-technical research i
 ***
 
 ![Find me on Social Media](https://img.shields.io/static/v1?label=Find%20me%20on&message=Social%20Media&color=555)
-[![Bluesky](https://img.shields.io/badge/bluesky-%40hendrikerz.bsky.social-blue?label=Bluesky)](https://bsky.app/profile/hendrikerz.bsky.social)
-[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@sahiralsaid&color=1DA1F2&logo=twitter)](https://www.twitter.com/sahiralsaid)
+[![Bluesky](https://img.shields.io/badge/bluesky-%40hendrik-erz.de-blue?label=Bluesky)](https://bsky.app/profile/hendrik-erz.de)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Hendrik%20Erz&color=0077B5&logo=linkedin)](https://www.linkedin.com/in/hendrik-erz/)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=nathan_lesage&color=E4405F&logo=instagram)](https://www.instagram.com/nathan_lesage/)
 
